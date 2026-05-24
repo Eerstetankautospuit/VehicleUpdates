@@ -88,6 +88,10 @@ def load_local_json(filepath: str) -> list:
         result.append(item)
     return result
 
+
+def is_valid_kenteken(kenteken):
+    return kenteken and kenteken.upper() not in ['GEEN', 'ONBEKEND', '-']
+
 def compare_json(old: Any, new: Any) -> dict:
     """
     Compares two JSON objects (assumed to be lists of dicts) and returns added, removed, and changed items.
@@ -131,6 +135,8 @@ def compare_json(old: Any, new: Any) -> dict:
     kenteken_to_old = {item.get('Kenteken', '').strip(): item for item in old}
     for old_item in removed_copy:
         kenteken = old_item.get('Kenteken', '').strip()
+        if not is_valid_kenteken(kenteken):
+            continue
         if kenteken and kenteken in kenteken_to_new:
             new_item = kenteken_to_new[kenteken]
             # Only treat as a Roepnummer change if Roepnummer is different

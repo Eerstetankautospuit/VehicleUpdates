@@ -35,6 +35,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_APK: ${{ secrets.DISCORD_APK }}
         run: |
+          git pull
           python compare_hulpdienstvoertuigenbenelux.py
           python apk_check.py
 
