@@ -1559,6 +1559,24 @@
         "Regio": "10",
         "Description": "10-811: Kenteken van 'J-634-ST' naar 'JTG-53-B' aangepast",
         "Time": "24-05-2026 19:01:47"
+      },
+      {
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-147: Kenteken van 'H-207-BN' naar 'JXX-13-G' aangepast",
+        "Time": "24-05-2026 21:45:27"
+      },
+      {
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-152: Kenteken van 'ONBEKEND' naar 'JXP-01-S' aangepast",
+        "Time": "24-05-2026 21:45:27"
+      },
+      {
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-168: Kenteken van 'G-775-HN' naar 'JXD-69-K' aangepast",
+        "Time": "24-05-2026 21:45:27"
       }
     ]
   },

@@ -61161,15 +61161,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "H-207-BN": {
-    "expiry": "2028-01-03",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-147"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "P-229-HH": {
     "expiry": "2027-03-10",
     "checked": true,
@@ -61338,15 +61329,6 @@
     "unknown": false,
     "roepnummers": [
       "20-167"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "G-775-HN": {
-    "expiry": "2026-09-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-168"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -69449,6 +69431,33 @@
     "unknown": false,
     "roepnummers": [
       "10-811"
+    ],
+    "last_check_date": "2026-05-24"
+  },
+  "JXX-13-G": {
+    "expiry": "2027-02-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-147"
+    ],
+    "last_check_date": "2026-05-24"
+  },
+  "JXP-01-S": {
+    "expiry": "2027-02-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-152"
+    ],
+    "last_check_date": "2026-05-24"
+  },
+  "JXD-69-K": {
+    "expiry": "2027-02-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-168"
     ],
     "last_check_date": "2026-05-24"
   }
