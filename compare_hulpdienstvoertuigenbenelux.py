@@ -151,6 +151,27 @@ def compare_json(old: Any, new: Any) -> dict:
 
 
 def main():
+    # Remove all updates.json entries older than 1 month
+    updates_path = "updates.json"
+    try:
+        if os.path.exists(updates_path):
+            with open(updates_path, "r", encoding="utf-8") as f:
+                updates = json.load(f)
+        else:
+            updates = []
+    except Exception:
+        updates = []
+
+    today = datetime.datetime.now().date()
+    one_month_ago = today - datetime.timedelta(days=31)
+    def parse_date(entry):
+        try:
+            return datetime.datetime.strptime(entry.get("date", ""), "%Y-%m-%d").date()
+        except Exception:
+            return None
+    updates = [entry for entry in updates if parse_date(entry) and parse_date(entry) >= one_month_ago]
+    with open(updates_path, "w", encoding="utf-8") as f:
+        json.dump(updates, f, ensure_ascii=False, indent=2)
     # Prepare changelog for updates.json
     now = datetime.datetime.now()
     changelog = {"date": now.strftime("%Y-%m-%d"), "added": [], "removed": [], "changed": []}
