@@ -43,6 +43,18 @@
         "Regio": "25",
         "Description": "25-2272 HV-KR toegevoegd aan Dronten",
         "Time": "25-05-2026 14:00:14"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "ONBEKEND TS-BB toegevoegd aan Bedrijfsbrandweer Eerbeek",
+        "Time": "25-05-2026 14:15:53"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "9",
+        "Description": "ONBEKEND TS-BB toegevoegd aan Bedrijfsbrandweer Leerdam",
+        "Time": "25-05-2026 14:15:53"
       }
     ],
     "removed": [
