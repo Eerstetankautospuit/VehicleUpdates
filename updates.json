@@ -13,6 +13,18 @@
         "Regio": "20",
         "Description": "G70 HC-Ambu toegevoegd aan Bergen op Zoom",
         "Time": "25-05-2026 11:43:22"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "9",
+        "Description": "09-7631 TS-BB toegevoegd aan Bedrijfsbrandweer Mijndrecht",
+        "Time": "25-05-2026 13:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-8139 TS toegevoegd aan Yara Sluiskil",
+        "Time": "25-05-2026 13:00:12"
       }
     ],
     "removed": [
