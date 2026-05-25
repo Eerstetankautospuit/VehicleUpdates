@@ -69541,5 +69541,23 @@
       "ONBEKEND"
     ],
     "last_check_date": "2026-05-25"
+  },
+  "11-JTJ-4": {
+    "expiry": "2026-06-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "22-4901"
+    ],
+    "last_check_date": "2026-05-25"
+  },
+  "BP-BF-98": {
+    "expiry": "2027-07-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-2272"
+    ],
+    "last_check_date": "2026-05-25"
   }
 }
