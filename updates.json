@@ -1,7 +1,14 @@
 [
   {
     "date": "2026-05-27",
-    "added": [],
+    "added": [
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "13",
+        "Description": "GEEN BMA-OTO toegevoegd aan Uithoorn",
+        "Time": "27-05-2026 22:00:13"
+      }
+    ],
     "removed": [
       {
         "Hulpdienst": "Brandweer",

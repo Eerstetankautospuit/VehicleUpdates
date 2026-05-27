@@ -69642,5 +69642,14 @@
       "10-344"
     ],
     "last_check_date": "2026-05-27"
+  },
+  "38-WH-XH": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-05-27"
   }
 }
