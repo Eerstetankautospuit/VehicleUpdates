@@ -1,7 +1,44 @@
 [
   {
     "date": "2026-05-28",
-    "added": [],
+    "added": [
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-8813 TS-BB toegevoegd aan Bedrijfsbrandweer Coevorden",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "GEEN GM toegevoegd aan Bedrijfsbrandweer Emmen",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-8031 TS-BB toegevoegd aan Bedrijfsbrandweer Zoeterwoude",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "ONBEKEND TS-BB toegevoegd aan Bedrijfsbrandweer Gorinchem",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "GEEN TS-BB toegevoegd aan Bedrijfsbrandweer Veghel",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "GEEN TS-BB toegevoegd aan Bedrijfsbrandweer Veghel",
+        "Time": "28-05-2026 17:00:15"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -15,6 +52,18 @@
         "Regio": "17",
         "Description": "17-2340: Kenteken van 'ONBEKEND' naar '66-WN-HV' aangepast",
         "Time": "28-05-2026 16:00:18"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-**: Adres van 'Bedrijfsbrandweer FALCK-GETEC Emmen' naar 'Bedrijfsbrandweer Emmen' aangepast",
+        "Time": "28-05-2026 17:00:15"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "'03-**' omgenummerd naar 'GEEN'",
+        "Time": "28-05-2026 17:00:15"
       }
     ]
   },

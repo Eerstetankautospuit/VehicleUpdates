@@ -6638,7 +6638,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "03-**"
+      "GEEN"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -69703,6 +69703,60 @@
     "unknown": true,
     "roepnummers": [
       "17-2340"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "BG-BH-28": {
+    "expiry": "2026-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-8813"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "59-VTV-4": {
+    "expiry": "2026-08-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "BT-DB-43": {
+    "expiry": "2027-02-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "16-8031"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "VD-25-FY": {
+    "expiry": "2026-10-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "ONBEKEND"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "VT-47-VG": {
+    "expiry": "2027-04-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "BT-HL-62": {
+    "expiry": "2026-09-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
     ],
     "last_check_date": "2026-05-28"
   }
