@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-05-28",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-0107: Kenteken van 'VH-381-J' naar 'V-44-PGT' aangepast",
+        "Time": "28-05-2026 11:00:14"
+      }
+    ]
+  },
+  {
     "date": "2026-05-27",
     "added": [
       {

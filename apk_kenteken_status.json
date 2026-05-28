@@ -503,15 +503,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "VH-381-J": {
-    "expiry": "2027-02-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-0107"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "JVZ-38-H": {
     "expiry": "2030-02-04",
     "checked": true,
@@ -69694,6 +69685,15 @@
     "unknown": true,
     "roepnummers": [
       "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-28"
+  },
+  "V-44-PGT": {
+    "expiry": "2029-04-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-0107"
     ],
     "last_check_date": "2026-05-28"
   }
