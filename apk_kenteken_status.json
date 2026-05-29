@@ -1700,15 +1700,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "BZ-XX-26": {
-    "expiry": "2027-04-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-3034"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "5-VTS-80": {
     "expiry": "2027-02-18",
     "checked": true,
@@ -69388,6 +69379,33 @@
     "unknown": false,
     "roepnummers": [
       "03-138"
+    ],
+    "last_check_date": "2026-05-29"
+  },
+  "BD-040-L": {
+    "expiry": "2027-05-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-3034"
+    ],
+    "last_check_date": "2026-05-29"
+  },
+  "BD-201-K": {
+    "expiry": "2027-05-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-7145"
+    ],
+    "last_check_date": "2026-05-29"
+  },
+  "VZB-68-T": {
+    "expiry": "2026-11-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "08-9383"
     ],
     "last_check_date": "2026-05-29"
   }
