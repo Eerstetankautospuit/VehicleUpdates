@@ -108,13 +108,16 @@ def compare_json(old: Any, new: Any) -> dict:
 
     def get_unique_id(item):
         roep = item.get('Roepnummer', '').strip().upper()
+        afkorting = item.get('Afkorting', '').strip().upper()
+        type_voertuig = item.get('TypeVoertuig', '').strip().upper()
         kenteken = item.get('Kenteken', '').strip().upper()
         adres = item.get('Adres', '').strip().upper()
+        all_key_fields_empty = not roep and not afkorting and not type_voertuig and not kenteken
         if roep and roep not in ['GEEN', 'ONBEKEND', '-']:
             return f"ROEPNUMMER:{roep}"
         elif is_valid_kenteken(kenteken):
             return f"KENTEKEN:{kenteken}"
-        elif adres:
+        elif adres and not all_key_fields_empty:
             return f"ADRES:{adres}"
         return None
 
@@ -137,8 +140,11 @@ def compare_json(old: Any, new: Any) -> dict:
     kenteken_to_old = {item.get('Kenteken', '').strip().upper(): item for item in old}
     for old_item in removed_copy:
         roep = old_item.get('Roepnummer', '').strip().upper()
+        afkorting = old_item.get('Afkorting', '').strip().upper()
+        type_voertuig = old_item.get('TypeVoertuig', '').strip().upper()
         kenteken = old_item.get('Kenteken', '').strip().upper()
         adres = old_item.get('Adres', '').strip().upper()
+        all_key_fields_empty = not roep and not afkorting and not type_voertuig and not kenteken
         # If Roepnummer is invalid
         if roep in ['GEEN', 'ONBEKEND', '-']:
             # If Kenteken is valid, try to match by Kenteken
@@ -151,7 +157,7 @@ def compare_json(old: Any, new: Any) -> dict:
                     if new_item in added:
                         added.remove(new_item)
             # If Kenteken is invalid, try to match by Adres
-            elif adres:
+            elif adres and not all_key_fields_empty:
                 adres_to_new = {item.get('Adres', '').strip().upper(): item for item in new}
                 if adres in adres_to_new:
                     new_item = adres_to_new[adres]
