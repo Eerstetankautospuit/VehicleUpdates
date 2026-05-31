@@ -134,6 +134,48 @@
         "Regio": "18",
         "Description": "Buitenpolikliniek Albert Schweitzer Polikliniek Dermatologie toegevoegd aan ",
         "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-7007 TD toegevoegd aan Ede Centrum",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Buitenpolikliniek Lingepolikliniek toegevoegd aan ",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Buitenpolikliniek Erasmus Medisch Centrum Radiotherapie - locatie Dordrecht toegevoegd aan ",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek Dialyse Koetshuis Waalwijk toegevoegd aan ",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": "Buitenpolikliniek Zorgsaam Ziekenhuis Locatie Liduina toegevoegd aan ",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Ziekenhuis ETZ Waalwijk toegevoegd aan ",
+        "Time": "31-05-2026 10:00:11"
       }
     ],
     "removed": [
@@ -187,6 +229,482 @@
         "Regio": "18",
         "Description": ": Afkorting van '' naar 'Albert Schweitzer locatie Zwijndrecht' aangepast",
         "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-472: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-473: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-474: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-475: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-476: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-477: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-478: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-479: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-480: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-481: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-482: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-483: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-484: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-485: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-601: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-602: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-603: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-604: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-605: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-606: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-419: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-440: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-441: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-442: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-444: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-445: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-447: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-453: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-454: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-455: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-458: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "S-459: Bijzonderheden van 'FBO bij Natruur Branden' naar 'T.b.v. FBO. Max 6 bambi buckets tegelijk.' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Ziekenhuis: Kenteken van '510 Bedden' naar 'Dit ziekenhuis heeft: 300 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Ziekenhuis: Kenteken van '179 Bedden' naar 'Dit ziekenhuis heeft: 100 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Ziekenhuis: Kenteken van '' naar 'Dit ziekenhuis heeft: 100 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Afkorting van '' naar 'Beatrixziekenhuis' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Kenteken van '323 Bedden' naar 'Dit ziekenhuis heeft: 219 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Afkorting van '' naar 'Admiraal De Ruyter Ziekenhuis Goes' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '364 Bedden' naar 'Dit ziekenhuis heeft: 260 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Afkorting van '' naar 'Zorgsaam Ziekenhuis Locatie Antonius' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '257 Bedden' naar 'Dit ziekenhuis heeft: 140 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Afkorting van '' naar 'Zorgsaam Ziekenhuis Locatie De Honte' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '290 Bedden' naar 'Dit ziekenhuis heeft: 110 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Afkorting van '' naar 'Admiraal De Ruyter Ziekenhuis Vlissingen' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '369 Bedden' naar 'Dit ziekenhuis heeft: 130 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'Amphia Oosterhout' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '502 Bedden' naar 'Dit ziekenhuis heeft: 170 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'Bravis Ziekenhuis Roosendaal' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '472 Bedden' naar 'Dit ziekenhuis heeft: 472 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'Bravis Ziekenhuis Bergen op Zoom' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '367 Bedden' naar 'Dit ziekenhuis heeft: 367 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'ETZ Elisabeth' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '673 Bedden' naar 'Dit ziekenhuis heeft: 519 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'Amphia Breda' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '615 Bedden' naar 'Dit ziekenhuis heeft: 635 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Afkorting van '' naar 'ETZ TweeSteden' aangepast",
+        "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '323 Bedden' naar 'Dit ziekenhuis heeft: 323 Bedden' aangepast",
+        "Time": "31-05-2026 10:00:11"
       }
     ]
   },

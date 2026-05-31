@@ -69694,7 +69694,8 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Kinderziekenhuis"
+      "Kinderziekenhuis",
+      "Ziekenhuis"
     ],
     "last_check_date": "2026-05-30"
   },
@@ -70058,99 +70059,101 @@
     ],
     "last_check_date": "2026-05-30"
   },
-  "510 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "Ziekenhuis"
-    ],
-    "last_check_date": "2026-05-30"
-  },
-  "323 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "179 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "Ziekenhuis"
-    ],
-    "last_check_date": "2026-05-30"
-  },
-  "364 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "257 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "290 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "369 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "502 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "472 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "367 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "673 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
-  "615 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
   "380 Bedden": {
     "expiry": null,
     "checked": true,
     "unknown": true,
     "roepnummers": [],
     "last_check_date": "2026-05-30"
+  },
+  "42-BXK-1": {
+    "expiry": "2026-07-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-7007"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 219 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 130 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 110 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 635 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 170 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 472 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 367 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 519 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 323 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
   }
 }
