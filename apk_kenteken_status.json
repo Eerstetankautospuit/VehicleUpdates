@@ -63095,7 +63095,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "23-804"
+      "23-804",
+      "24-385"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -63366,8 +63367,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "23-701",
-      "24-712"
+      "23-701"
     ],
     "last_check_date": "2026-05-31"
   },
@@ -63497,24 +63497,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "KP-237-R": {
-    "expiry": "2026-07-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-120"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "SJ-222-G": {
-    "expiry": "2027-02-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-121"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "XT-577-J": {
     "expiry": "2027-03-15",
     "checked": true,
@@ -63628,7 +63610,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "24-131"
+      "24-231"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -63668,24 +63650,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "RD-350-D": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "24-136"
-    ],
-    "last_check_date": "2026-05-31"
-  },
-  "KV-263-G": {
-    "expiry": "2026-10-12",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-137"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "H-872-XH": {
     "expiry": "2026-06-10",
     "checked": true,
@@ -63719,15 +63683,6 @@
     "unknown": false,
     "roepnummers": [
       "24-384"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "56-VZJ-4": {
-    "expiry": "2027-01-14",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-385"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -63776,15 +63731,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "SJ-880-F": {
-    "expiry": "2026-01-09",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-153"
-    ],
-    "last_check_date": "2026-05-31"
-  },
   "KZ-004-F": {
     "expiry": "2026-12-23",
     "checked": true,
@@ -63829,33 +63775,6 @@
       "24-711"
     ],
     "last_check_date": "2026-05-24"
-  },
-  "KZ-012-B": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "24-721"
-    ],
-    "last_check_date": "2026-05-31"
-  },
-  "NG-500-H": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "24-722"
-    ],
-    "last_check_date": "2026-05-31"
-  },
-  "NG-922-D": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "24-723"
-    ],
-    "last_check_date": "2026-05-31"
   },
   "HVP-66-X": {
     "expiry": "2026-07-09",
@@ -70281,6 +70200,78 @@
     "unknown": true,
     "roepnummers": [
       "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "GNB-95-N": {
+    "expiry": "2026-09-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-120"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "GXG-86-S": {
+    "expiry": "2026-12-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-121"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "RZ-350-D": {
+    "expiry": "2027-03-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-136"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "GXG-91-S": {
+    "expiry": "2026-12-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-137"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "GNB-97-N": {
+    "expiry": "2026-09-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-153"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "T-376-RN": {
+    "expiry": "2027-09-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-721"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "T-764-TP": {
+    "expiry": "2027-09-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-722"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "T-765-TP": {
+    "expiry": "2027-09-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-723"
     ],
     "last_check_date": "2026-05-31"
   }

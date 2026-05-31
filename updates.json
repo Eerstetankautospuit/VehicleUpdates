@@ -500,6 +500,13 @@
         "Regio": "",
         "Description": "Ziekenhuis ETZ Waalwijk verwijderd van ",
         "Time": "31-05-2026 12:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-842 AC-GZ verwijderd van Maastricht",
+        "Time": "31-05-2026 16:00:12"
       }
     ],
     "changed": [
@@ -1517,6 +1524,188 @@
         "Regio": "28",
         "Description": ": Bijzonderheden van '500 Bedden' naar '' aangepast",
         "Time": "31-05-2026 12:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-381: Adres van 'Heerlen' naar 'Geleen' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-120: Kenteken van 'KP-237-R' naar 'GNB-95-N' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-121: Kenteken van 'SJ-222-G' naar 'GXG-86-S' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-231: Adres van 'Heerlen' naar 'Maastricht' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-231: Afkorting van 'MC-Ambu' naar 'MC-Ambulance' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-231: TypeVoertuig van 'Ambulance middencomplexe zorg' naar 'Middel Complex Ambulance' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-136: Kenteken van 'RD-350-D' naar 'RZ-350-D' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-137: Kenteken van 'KV-263-G' naar 'GXG-91-S' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-230: Adres van 'Heerlen' naar 'Maastricht' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-230: Afkorting van 'MC-Ambu' naar 'MC-Ambulance' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-230: TypeVoertuig van 'Ambulance middencomplexe zorg' naar 'Middel Complex Ambulance' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-383: Adres van 'Geleen' naar 'Maastricht' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-385: Kenteken van '56-VZJ-4' naar 'GR-673-V' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-385: Bijzonderheden van '' naar 'Reserve voertuig' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-153: Kenteken van 'SJ-880-F' naar 'GNB-97-N' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-156: Adres van 'Heerlen' naar 'Landgraaf' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-156: Bijzonderheden van 'Reserve voertuig' naar '' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-384: Adres van 'Maastricht' naar 'Landgraaf' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-830: Adres van 'Brandweee Born' naar 'Brandweer Born' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-712: Kenteken van 'PD-127-V' naar 'ONBEKEND' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-721: Kenteken van 'KZ-012-B' naar 'T-376-RN' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-722: Kenteken van 'NG-500-H' naar 'T-764-TP' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-723: Kenteken van 'NG-922-D' naar 'T-765-TP' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "'24-131' omgenummerd naar '24-231'",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-131: Afkorting van 'HC-Ambu' naar 'MC-Ambu' aangepast",
+        "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-131: TypeVoertuig van 'Ambulance hoogcomplexe zorg' naar 'Ambulance middencomplexe zorg' aangepast",
+        "Time": "31-05-2026 16:00:12"
       }
     ]
   },
