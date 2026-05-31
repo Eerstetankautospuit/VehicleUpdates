@@ -1,8 +1,157 @@
 [
   {
     "date": "2026-05-31",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek IJsselland Ziekenhuis Buitenpolikliniek Nesselande toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek IJsselland Ziekenhuis Buitenpolikliniek Krimpen toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek IJsselland Ziekenhuis Polikliniek Kralingen toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Het Van Weel-Bethesda Polikliniek Hellevoetsluis toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Het Van Weel-Bethesda Polikliniek Brielle toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Het Van Weel-Bethesda Polikliniek Hellevoetsluis 't Dok MC toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Ziekenhuis Erasmus Medisch Centrum Kanker Instituut toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Erasmus Medisch Centrum Derma- en Kinderhaven toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Franciscus Berkel toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Francisus Willemsplein toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Ikazia Ziekenhuis Polikliniek Carnisselande toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Ikazia Ziekenhuis Polikliniek Slikkerveer toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Ikazia Ziekenhuis Kaakchirurgie Haringvliet toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Ikazia Ziekenhuis Dagbehandeling Brainpark toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Spijkenisse Medisch Centrum Buitenpoli Rozenburg toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Spijkenisse Medisch Centrum Buitenpolikliniek Oud-Beijerland toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Albert Schweitzer Buitenpoli GOED Ridderkerk toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Ziekenhuis Albert Schweitzer locatie Sliedrecht toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "Buitenpolikliniek Albert Schweitzer Polikliniek Dermatologie toegevoegd aan ",
+        "Time": "31-05-2026 09:00:12"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek Spijkenisse Medisch Centrum Buitenpolikliniek Oud-Beijerland verwijderd van ",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Ziekenhuis Erasmus Medisch Centrum Kanker Instituut verwijderd van ",
+        "Time": "31-05-2026 09:00:12"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -10,6 +159,34 @@
         "Regio": "17",
         "Description": "17-2131: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens ON-UHD. Bezetting: 7 personen.' aangepast",
         "Time": "31-05-2026 08:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Afkorting van '' naar 'Albert Schweitzer locatie Dordwijk' aangepast",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Afkorting van '' naar 'Albert Schweitzer locatie Zwijndrecht' aangepast",
+        "Time": "31-05-2026 09:00:12"
       }
     ]
   },

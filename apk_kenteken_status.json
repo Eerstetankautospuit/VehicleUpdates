@@ -70062,7 +70062,9 @@
     "expiry": null,
     "checked": true,
     "unknown": true,
-    "roepnummers": [],
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
     "last_check_date": "2026-05-30"
   },
   "323 Bedden": {
@@ -70076,7 +70078,9 @@
     "expiry": null,
     "checked": true,
     "unknown": true,
-    "roepnummers": [],
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
     "last_check_date": "2026-05-30"
   },
   "364 Bedden": {

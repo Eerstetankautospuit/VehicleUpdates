@@ -178,7 +178,7 @@ Unknown (1017):
 17-WJ-HD (GEEN)
 17-WJ-HL (20-1084)
 17-WS-XK (GEEN)
-179 Bedden
+179 Bedden (Ziekenhuis)
 18-05-YS (36-9319)
 18-85-YE (10-4311)
 18-DMT-08 (28-6401)
@@ -339,7 +339,7 @@ Unknown (1017):
 51-57-UV (03-8614)
 51-KKB-1 (22-506)
 51-WT-TV (06-5062)
-510 Bedden
+510 Bedden (Ziekenhuis)
 52-09-YN (09-0412)
 52-32-YT (36-0319)
 52-65-YK (36-8779)
