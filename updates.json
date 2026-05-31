@@ -705,6 +705,41 @@
         "Regio": "20",
         "Description": ": Kenteken van '323 Bedden' naar 'Dit ziekenhuis heeft: 323 Bedden' aangepast",
         "Time": "31-05-2026 10:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek: Afkorting van 'Dialyse Koetshuis Waalwijk' naar 'Ziekenhuis Bernhoven Oss' aangepast",
+        "Time": "31-05-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek: TypeVoertuig van 'Koetshuislaan 619, Waalwijk' naar '' aangepast",
+        "Time": "31-05-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "21",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "31-05-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "21",
+        "Description": ": Afkorting van '' naar 'Ziekenhuis Bernhoven Uden' aangepast",
+        "Time": "31-05-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "21",
+        "Description": ": Kenteken van '380 Bedden' naar 'Dit ziekenhuis heeft: 392 Bedden' aangepast",
+        "Time": "31-05-2026 11:00:11"
       }
     ]
   },

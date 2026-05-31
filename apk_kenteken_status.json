@@ -70059,13 +70059,6 @@
     ],
     "last_check_date": "2026-05-30"
   },
-  "380 Bedden": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [],
-    "last_check_date": "2026-05-30"
-  },
   "42-BXK-1": {
     "expiry": "2026-07-01",
     "checked": true,
@@ -70148,6 +70141,15 @@
     "last_check_date": "2026-05-31"
   },
   "Dit ziekenhuis heeft: 323 Bedden": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Ziekenhuis"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "Dit ziekenhuis heeft: 392 Bedden": {
     "expiry": null,
     "checked": true,
     "unknown": true,
