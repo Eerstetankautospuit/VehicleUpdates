@@ -6696,15 +6696,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "59-BBF-4": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "04-1234"
-    ],
-    "last_check_date": "2026-05-31"
-  },
   "58-BBF-4": {
     "expiry": "2026-09-20",
     "checked": true,
@@ -51200,7 +51191,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "03-107"
+      "03-107",
+      "MTV-2"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -51272,7 +51264,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "03-106"
+      "03-106",
+      "MTV-1"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -70272,6 +70265,15 @@
     "unknown": false,
     "roepnummers": [
       "24-723"
+    ],
+    "last_check_date": "2026-05-31"
+  },
+  "BD-089-H": {
+    "expiry": "2027-03-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-1234"
     ],
     "last_check_date": "2026-05-31"
   }

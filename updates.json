@@ -470,6 +470,20 @@
         "Regio": "25",
         "Description": "Buitenpolikliniek Antonius in Dokter Jansencentrum toegevoegd aan ",
         "Time": "31-05-2026 12:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "MTV-1 HC-Ambu toegevoegd aan TT Circuit Assen",
+        "Time": "31-05-2026 22:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "MTV-2 HC-Ambu toegevoegd aan TT Circuit Assen",
+        "Time": "31-05-2026 22:00:15"
       }
     ],
     "removed": [
@@ -1706,6 +1720,13 @@
         "Regio": "24",
         "Description": "24-131: TypeVoertuig van 'Ambulance hoogcomplexe zorg' naar 'Ambulance middencomplexe zorg' aangepast",
         "Time": "31-05-2026 16:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-1234: Kenteken van '59-BBF-4' naar 'BD-089-H' aangepast",
+        "Time": "31-05-2026 22:00:15"
       }
     ]
   },
