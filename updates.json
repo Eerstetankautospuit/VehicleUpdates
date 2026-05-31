@@ -3,7 +3,15 @@
     "date": "2026-05-31",
     "added": [],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-2131: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens ON-UHD. Bezetting: 7 personen.' aangepast",
+        "Time": "31-05-2026 08:00:11"
+      }
+    ]
   },
   {
     "date": "2026-05-30",
