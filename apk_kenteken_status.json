@@ -25002,15 +25002,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "86-BDK-6": {
-    "expiry": "2026-06-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-4131"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "15-BKX-2": {
     "expiry": "2027-01-16",
     "checked": true,
@@ -70266,6 +70257,15 @@
     "unknown": false,
     "roepnummers": [
       "04-301"
+    ],
+    "last_check_date": "2026-06-01"
+  },
+  "BB-608-Z": {
+    "expiry": "2026-12-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "13-4131"
     ],
     "last_check_date": "2026-06-01"
   }
