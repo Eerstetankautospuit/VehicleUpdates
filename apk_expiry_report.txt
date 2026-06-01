@@ -80,7 +80,7 @@ VX-25-NJ (01-3981): verlopen op 2025-02-11
 Z-691-RH (21-122): verlopen op 2026-05-30
 Z-692-RH (20-142): verlopen op 2026-05-29
 
-Unknown (1023):
+Unknown (1022):
 "t Span (35-7702)
 0-YH-635 (36-6359)
 0-YH-818 (36-2739)
@@ -1001,7 +1001,6 @@ TSF-30-P (36-7930)
 TVD-21-V (36-2830)
 TZD-99-S (17-8981 (81))
 Tempest (GEEN)
-Test (Test)
 Tjepke Ekkelboom (35-7521)
 Tonijn (35-7342)
 Trudy Bakhuis (35-7561)

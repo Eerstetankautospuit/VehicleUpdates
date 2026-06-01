@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-06-01",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9085 VZA-WC toegevoegd aan Logistiek/Driemanssteeweg",
+        "Time": "01-06-2026 11:00:17"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "Test Test verwijderd van Leek 4",
+        "Time": "01-06-2026 11:00:17"
+      }
+    ],
     "changed": []
   },
   {

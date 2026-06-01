@@ -33254,6 +33254,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
+      "17-9085",
       "17-9291"
     ],
     "last_check_date": "2026-05-24"
@@ -69320,15 +69321,6 @@
       "08-9383"
     ],
     "last_check_date": "2026-05-29"
-  },
-  "Test": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "Test"
-    ],
-    "last_check_date": "2026-05-30"
   },
   "Dit ziekenhuis heeft: 120 Bedden": {
     "expiry": null,
