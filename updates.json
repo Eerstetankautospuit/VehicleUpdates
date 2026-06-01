@@ -19,7 +19,36 @@
         "Time": "01-06-2026 11:00:17"
       }
     ],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1003: Adres van 'Leek 1' naar 'Leek' aangepast",
+        "Time": "01-06-2026 17:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1031: Adres van 'Leek 2' naar 'Leek' aangepast",
+        "Time": "01-06-2026 17:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1032: Adres van 'Leek 3' naar 'Leek' aangepast",
+        "Time": "01-06-2026 17:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4",
+        "Description": "04-301: Kenteken van '6-STL-87' naar 'KFF-09-X' aangepast",
+        "Time": "01-06-2026 17:00:22"
+      }
+    ]
   },
   {
     "date": "2026-05-31",

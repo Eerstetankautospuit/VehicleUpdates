@@ -51741,15 +51741,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "6-STL-87": {
-    "expiry": "2026-12-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-301"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "6-STL-85": {
     "expiry": "2026-12-06",
     "checked": true,
@@ -70268,5 +70259,14 @@
       "04-1234"
     ],
     "last_check_date": "2026-05-31"
+  },
+  "KFF-09-X": {
+    "expiry": "2027-03-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-301"
+    ],
+    "last_check_date": "2026-06-01"
   }
 }
