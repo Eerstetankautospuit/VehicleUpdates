@@ -3,7 +3,15 @@
     "date": "2026-06-02",
     "added": [],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1301: Interne opmerking van '' naar '1' aangepast",
+        "Time": "02-06-2026 07:00:13"
+      }
+    ]
   },
   {
     "date": "2026-06-01",
